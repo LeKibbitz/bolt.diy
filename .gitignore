@@ -35,7 +35,7 @@ _worker.bundle
 Modelfile
 modelfiles
 
-# docs ignore
+# docs ignored
 site
 
 # commit file ignore
